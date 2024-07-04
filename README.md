@@ -1,5 +1,5 @@
-# Quantum Circuits 101
-Basic Qiskit (version >= 1.0) Tutorial Codes 
+# <font color=blue>Quantum Circuits 101</font>
+**Basic Qiskit (version >= 1.0) Tutorial. Author: Dr Himadri Barman** 
 
 ## Generic instruction:
 Use a Python interactive notebook (Jupyter, Google Colab, etc.) for coding.
