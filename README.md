@@ -1,5 +1,5 @@
 # <font color=blue>Quantum Circuits 101</font>
-**Basic Qiskit (version >= 1.0) Tutorial. Author: Dr Himadri Barman** 
+**Introductory course on Quantum Circuits and Quantum  using  Python based Qiskit (version >= 1.0) library. Author: Dr Himadri Barman** 
 
 ## Generic instruction:
 Use a Python interactive notebook (Jupyter, Google Colab, etc.) for coding.
