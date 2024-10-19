@@ -1,7 +1,0 @@
-http://www.epstem.net/tr/download/article-file/3630906 **
-
-https://medium.com/@_monitsharma/evidence-for-the-utility-of-quantum-computing-before-fault-tolerance-or-maybe-not-b31a3b6d98ee
-
-https://github.com/qiskit-community/ibm-quantum-challenge-fall-22/blob/main/solutions-by-authors/lab-1/lab1.ipynb
-
-
