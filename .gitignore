@@ -8,6 +8,8 @@ faqs.txt
 push_to_repo.sh 
 update_local_to_remote.sh
 remove.sh
+__pycache__
+*/__pycache__
 
 
 
