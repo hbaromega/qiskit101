@@ -10,6 +10,7 @@ update_local_to_remote.sh
 remove.sh
 __pycache__
 */__pycache__
-
+*.swp
+*/.swp
 
 
